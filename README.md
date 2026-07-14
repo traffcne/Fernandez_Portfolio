@@ -6,7 +6,7 @@ Writer and aspiring Game Programmer currently pursuing a BS in Multimedia Entert
 
 ## CV
 ----
-[CV] (https://docs.google.com/document/d/1XhU6UrixywQKiLTjN4qDlgACSXxILKvWnJ09ETQ74Fs/edit?usp=sharing) 
+[CV](https://docs.google.com/document/d/1XhU6UrixywQKiLTjN4qDlgACSXxILKvWnJ09ETQ74Fs/edit?usp=sharing) 
 
 ## Project List
 ---- 
