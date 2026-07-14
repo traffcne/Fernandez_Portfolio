@@ -12,8 +12,8 @@ Writer and aspiring Game Programmer currently pursuing a BS in Multimedia Entert
 ---- 
 Game Programming 1 Finals
 - Recreation of Minesweeper
-- [Repository Link] (https://github.com/traffcne/FERNANDEZ_FINALS_Gem_Miner)
+- [Repository Link](https://github.com/traffcne/FERNANDEZ_FINALS_Gem_Miner)
 
 Game Programming 2 Finals
 - Point and click adventure tackling themes of alcoholism
-- [Repository Link] (https://github.com/traffcne/FERNANDEZ_GameProg2-Finals)
+- [Repository Link](https://github.com/traffcne/FERNANDEZ_GameProg2-Finals)
