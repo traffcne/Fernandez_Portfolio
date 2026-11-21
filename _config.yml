@@ -2,5 +2,8 @@ title: Writing Portfolio
 description: Story writing for video game projects, and creative writing exercises.
 theme: minima
 
+include:
+  - _pages
+
 header_pages:
-  - about.md
+  - _pages/about.md
