@@ -1,4 +1,3 @@
-Markdown
 ---
 layout: home
 list_title: Scripts for Game Projects
