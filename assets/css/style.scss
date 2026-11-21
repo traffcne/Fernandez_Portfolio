@@ -1,0 +1,47 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom Writing Portfolio Typography & Layout */
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.75;
+  color: #222222;
+  background-color: #fafafa;
+}
+
+.wrapper {
+  max-width: 680px; /* Optimal width for reading long-form text */
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 20px 0;
+}
+
+.site-title {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.post-list-heading, .page-heading {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 1.4rem;
+  margin-bottom: 1.5rem;
+}
+
+.post-link {
+  font-size: 1.35rem;
+  color: #111111;
+  text-decoration: none;
+}
+
+.post-link:hover {
+  text-decoration: underline;
+}
