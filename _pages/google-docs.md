@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Game Project Stories and Scripts
-permalink: /Story-Scripts/
+permalink: /story-scripts/
 ---
 
 These pieces are synced live from Google Docs and update automatically as I revise them.
