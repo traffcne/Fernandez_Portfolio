@@ -4,9 +4,7 @@ theme: minima
 
 include:
   - _pages
-  - _posts
 
 header_pages:
-  - _pages/about.md
   - _pages/google-docs.md
-  - _posts
+  - _pages/about.md
