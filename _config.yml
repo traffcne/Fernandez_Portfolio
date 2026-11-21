@@ -6,5 +6,6 @@ include:
   - _pages
 
 header_pages:
+  - _pages/writing-practice.md
   - _pages/google-docs.md
   - _pages/about.md
