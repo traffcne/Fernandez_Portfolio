@@ -45,3 +45,19 @@ body {
 .post-link:hover {
   text-decoration: underline;
 }
+
+body.noir-theme {
+  background-color: #141414;
+  color: #e0e0e0;
+}
+
+body.noir-theme .site-header,
+body.noir-theme .site-footer {
+  border-color: #333333;
+}
+
+body.noir-theme .site-title,
+body.noir-theme .post-title,
+body.noir-theme .page-link {
+  color: #ffffff;
+}
