@@ -9,7 +9,7 @@ These pieces are synced live from Google Docs and update automatically as I revi
 {% assign grouped_projects = site.categories.google-docs | group_by: "project" %}
 
 {% for group in grouped_projects %}
-  <details class="project-dropdown" open>
+  <details class="project-dropdown">
     <summary class="project-summary">
       {% if group.name != "" %}
         {{ group.name }}
