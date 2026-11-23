@@ -3,7 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* 1. Page Background & Body Font (Glacial Indifference) */
 html {
   min-height: 100%;
   background-color: #000000;
@@ -389,4 +388,53 @@ a:hover {
     text-align: center;
     gap: 18px;
   }
+}
+
+.dictionary-entry {
+  max-width: 540px;
+  margin: 1.75rem auto 2rem auto;
+  padding: 1.25rem 1.5rem;
+  text-align: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+  background-color: rgba(255, 255, 255, 0.02);
+  border-radius: 8px;
+}
+
+.dict-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 0.5rem;
+}
+
+.dict-word {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.55rem;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0.3px;
+}
+
+.dict-phonetic {
+  font-family: "Lucida Sans Unicode", "Segoe UI", "DejaVu Sans", sans-serif;
+  font-size: 1.05rem;
+  color: #ff9e5e;
+}
+
+.dict-pos {
+  font-family: "Playfair Display", Georgia, serif;
+  font-style: italic;
+  font-size: 0.95rem;
+  color: #d49eff;
+}
+
+.dict-definition {
+  font-family: "Glacial Indifference", sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #e6e6e6;
+  margin: 0;
 }
