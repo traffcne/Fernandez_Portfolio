@@ -148,6 +148,7 @@ h3:hover {
   font-size: 1.1rem;
   color: #ff9e5e;
   transition: transform 0.2s ease;
+  margin-left: auto;
 }
 
 .project-dropdown:not([open]) .project-summary::after {
