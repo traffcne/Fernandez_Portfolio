@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="about-intro">
-  <img src="{{ '/assets/images/about-avatar.jpg' | relative_url }}" alt="Pablo Fernandez" class="about-avatar">
+  <img src="{{ '/assets/images/about-avatar.png' | relative_url }}" alt="Pablo Fernandez" class="about-avatar">
   <div class="about-intro-text">
     <p>My name is Pablo Gabriel C. Fernandez, a transferee college student currently taking Bachelor of Science in Multimedia Entertainment Computing or BS-EMC at CIIT College of Innovation and Integrated Technology, and I am currently in my 4th year. We call the course "Game Dev" for short. Prior to that, I transferred from UA&amp;P University of Asia and the Pacific, where I took 3 years in Masters of Art in Political Economy with Specialization in International Relations and Development, or MAPE-IRD for short. We just called "Pol-Eco" for short. I admittedly wasn't very good at Pol-Eco., hence why I transferred.</p>
   </div>
