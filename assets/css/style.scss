@@ -364,9 +364,11 @@ a:hover {
   margin-bottom: 1.5rem;
 }
 
-.about-avatar {
+.about-intro .about-avatar {
   width: 165px;
   height: 165px;
+  min-width: 165px;
+  max-width: 165px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center top;
