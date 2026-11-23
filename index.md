@@ -13,7 +13,7 @@ I'm Pablo, otherwise known as traffcne online. I keep the stories, dialogue, and
   <p class="dict-definition">
     1. A portmanteau of the shortened versions of the words "Traffic" and "Cone"; derived from Traffic Cone, my original username which usually gets blocked on most sites.
     2. A username I've used since senior high school when I couldn't come up with one for a game.
-    3. Inspired from a YouTube I now only vaguely remember.
+    3. Inspired from a YouTube video I now only vaguely remember.
   </p>
 </div>
 
