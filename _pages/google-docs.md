@@ -8,7 +8,7 @@ These pieces are synced live from Google Docs and update automatically as I revi
 
 <div class="sort-controls">
   <button type="button" class="sort-toggle-btn" onclick="toggleSortOrder(this)" data-direction="asc">
-    Sort: Standard (1 → 9) ⇅
+    Sort: ⇅
   </button>
 </div>
 
@@ -44,7 +44,7 @@ function toggleSortOrder(btn) {
   const isAsc = btn.getAttribute("data-direction") === "asc";
   const nextDir = isAsc ? "desc" : "asc";
   btn.setAttribute("data-direction", nextDir);
-  btn.textContent = nextDir === "asc" ? "Sort: Standard (1 → 9) ⇅" : "Sort: Reverse (9 → 1) ⇅";
+  btn.textContent = nextDir === "asc" ? "Sort: Oldest to Newest ⇅" : "Sort: Newest to Oldest ⇅";
 
   document.querySelectorAll(".sortable-list").forEach(list => {
     const items = Array.from(list.children);
