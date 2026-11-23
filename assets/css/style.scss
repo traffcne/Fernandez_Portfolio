@@ -438,3 +438,30 @@ a:hover {
   color: #e6e6e6;
   margin: 0;
 }
+
+.doc-mode-controls {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.google-doc-body.doc-dark-active,
+.google-doc-body.doc-dark-active div,
+.google-doc-body.doc-dark-active p,
+.google-doc-body.doc-dark-active span,
+.google-doc-body.doc-dark-active table,
+.google-doc-body.doc-dark-active tr,
+.google-doc-body.doc-dark-active td,
+.google-doc-body.doc-dark-active th {
+  background: transparent !important;
+  background-color: transparent !important;
+  color: #ffffff !important;
+}
+
+.google-doc-body.doc-dark-active iframe {
+  background: transparent !important;
+  filter: invert(0.92) hue-rotate(180deg) contrast(1.05);
+  mix-blend-mode: lighten;
+  border: none;
+}
