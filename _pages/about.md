@@ -12,5 +12,3 @@ permalink: /about/
 </div>
 
 I have an intermediate proficiency in coding C# for Unity game projects, though admittedly I struggle with it at times. What comes naturally to me is writing, though I admit I have no professional or academic background in writing. Whether it was my mother taking journalism, or being named after two poets, writing about the world around me, about my experiences, or inventing new worlds altogether, writing feels easy to me. I am very proficient in the English language since I was a child, though it has hampered my ability to speak my mother tongue of Filipino. Still, if you're searching for a loquacious, flexible, and creative writer, you've come to the right person.
-
-Contact me here: goetia.lol@gmail.com
